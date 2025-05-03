@@ -1,0 +1,16 @@
+{
+  "licenses": [
+    {
+      "key": "MIKU-12345-ABCDE",
+      "user": "miku208",
+      "status": "active",
+      "expires": "2025-12-31"
+    },
+    {
+      "key": "MIKU-67890-ZYXWV",
+      "user": "client_1",
+      "status": "active",
+      "expires": "2026-01-15"
+    }
+  ]
+}
